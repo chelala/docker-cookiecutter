@@ -1,6 +1,6 @@
 # docker-cookiecutter
 
-Inpired on https://github.com/audreyfeldroy/docker-cookiecutter but using [Chainguard](https://www.chainguard.dev) images.
+Inpired by https://github.com/audreyfeldroy/docker-cookiecutter but using [Chainguard](https://www.chainguard.dev) images.
 
 ## GitHub CI
 A GitHub Actions workflow (.github/workflows/docker-publish.yml) is included to build and push this image to GHCR.
